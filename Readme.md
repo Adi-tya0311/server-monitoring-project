@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📡 Linux Server Monitoring & Alerting
+# 📡 Server Monitoring & Alerting
 
 **Prometheus • Node Exporter • Grafana on AWS EC2**
 
